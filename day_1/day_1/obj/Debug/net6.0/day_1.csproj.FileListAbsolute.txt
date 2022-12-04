@@ -1,0 +1,15 @@
+D:\advent\day_1\day_1\bin\Debug\net6.0\day_1.exe
+D:\advent\day_1\day_1\bin\Debug\net6.0\day_1.deps.json
+D:\advent\day_1\day_1\bin\Debug\net6.0\day_1.runtimeconfig.json
+D:\advent\day_1\day_1\bin\Debug\net6.0\day_1.dll
+D:\advent\day_1\day_1\bin\Debug\net6.0\day_1.pdb
+D:\advent\day_1\day_1\obj\Debug\net6.0\day_1.csproj.AssemblyReference.cache
+D:\advent\day_1\day_1\obj\Debug\net6.0\day_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\advent\day_1\day_1\obj\Debug\net6.0\day_1.AssemblyInfoInputs.cache
+D:\advent\day_1\day_1\obj\Debug\net6.0\day_1.AssemblyInfo.cs
+D:\advent\day_1\day_1\obj\Debug\net6.0\day_1.csproj.CoreCompileInputs.cache
+D:\advent\day_1\day_1\obj\Debug\net6.0\day_1.dll
+D:\advent\day_1\day_1\obj\Debug\net6.0\refint\day_1.dll
+D:\advent\day_1\day_1\obj\Debug\net6.0\day_1.pdb
+D:\advent\day_1\day_1\obj\Debug\net6.0\day_1.genruntimeconfig.cache
+D:\advent\day_1\day_1\obj\Debug\net6.0\ref\day_1.dll
